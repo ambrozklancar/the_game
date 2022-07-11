@@ -1,0 +1,208 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23710785490491,
+          14.373809798520288
+        ]
+      },
+      "properties": {
+        "name": "Cineplexx Kranj",
+        "address": "Cesta Jaka Platiše 18, 4000 Kranj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.247517243948266,
+          14.373396340848185
+        ]
+      },
+      "properties": {
+        "name": "MeMe",
+        "address": "Doma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.25071074650354, 
+          14.348342734377672
+        ]
+      },
+      "properties": {
+        "name": "ŠC Kranj",
+        "address": "Kidričeva cesta 55, 4000 Kranj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.231942029368014, 
+          14.367898150720965
+        ]
+      },
+      "properties": {
+        "name": "Supernova Qlandija Kranj",
+        "address": "Cesta 1. maja 77, 4000 Kranj"
+      }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.2422677625386,
+          14.356434729210221
+        ]
+      },
+      "properties": {
+        "name": "Mestna knjižnica Kranj",
+        "address": "Gregorčičeva ulica 1, 4000 Kranj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.243788278585306, 
+          14.354771140848133
+        ]
+      },
+      "properties": {
+        "name": "Brioni",
+        "address": "Koroška cesta 10, 4000 Kranj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.267347811861285, 
+          14.351746987702047
+        ]
+      },
+      "properties": {
+        "name": "Križiče Mamut",
+        "address": "Golniška cesta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23324588572006, 
+          14.339657886882373
+        ]
+      },
+      "properties": {
+        "name": "Gostilna Benedik",
+        "address": "Benedikova ulica 21, 4000 Kranj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.332218417339114, 
+          14.279229664580239
+        ]
+      },
+      "properties": {
+        "name": "Avtoelektrika Šlibar",
+        "address": "4290 Zvirče"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.34008356727479, 
+          14.281907976039047
+        ]
+      },
+      "properties": {
+        "name": "Prostovoljno gasilsko društvo Kovor",
+        "address": "Glavna cesta 24, 4290 Tržič"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.34176042481295, 
+          14.283367730637966
+        ]
+      },
+      "properties": {
+        "name": "Župnijska cerkev sv. Janeza Krstnika",
+        "address": "4290 Tržič"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.34337668590736,
+          14.282751191989044
+        ]
+      },
+      "properties": {
+        "name": "Kapelica",
+        "address": "Praproše 17, 4290 Tržič"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.338518588998895,
+          14.283221551831558
+        ]
+      },
+      "properties": {
+        "name": "Grafično oblikovanje in priprava za tisk",
+        "address": "Pod skalco 12, 4290 Tržič"
+      }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.33292919571342,
+          14.27936656865873
+        ]
+      },
+      "properties": {
+        "name": "Učila International",
+        "address": "Zvirče 104, 4290 Tržič"
+      }
+    }
+    
+  ]
+}

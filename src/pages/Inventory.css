@@ -1,0 +1,124 @@
+h1{
+    color: aquamarine;
+}
+.inventoryList{
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    width: 100%;
+    text-align: center;
+    padding: 3%;
+    
+    
+}
+
+.inventoryItem{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    color: aquamarine;
+    width: 100%;
+     
+}
+
+.common{
+    color: white;
+    text-align: center; 
+    font-size: 150%;
+}
+
+.commonRing{
+    color: white;
+    text-align: left;
+    width: 100%;
+}
+
+.uncommon{
+    color: aquamarine;
+    text-align: center;
+    font-size: 150%;
+}
+
+.uncommonRing{
+    color: aquamarine;
+    text-align: left;
+    width: 100%;  
+}
+
+.fuseBtn{
+    width: 100%;
+}
+
+.rare{
+    color: violet;
+    text-align: center;
+    font-size: 150%;
+}
+
+.rareRing{
+    color: violet;
+    text-align: left;
+    width: 100%;  
+}
+
+.uniqe{
+    color: cyan;
+    text-align: center;
+    font-size: 150%;
+}
+
+.uniqeRing{
+    color: cyan;
+    text-align: left;
+    width: 100%; 
+}
+
+.chaosRing{
+    color: #680fea;
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    font-size: 120%;
+    margin-bottom: 10%;
+
+}
+
+
+.btn{
+    text-align: center;
+}
+
+@keyframes rainbow { 
+    0%{background-position:0% 50%}
+    50%{background-position:100% 25%}
+    100%{background-position:0% 50%}
+}
+
+.rainbow-text {
+    background-image: repeating-linear-gradient(45deg, violet, indigo, blue, green, yellow, orange, red, violet);
+    text-align: center;
+    background-size: 800% 800%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow 8s ease infinite;
+    font-weight: bold;
+    font-size: 120%;
+    width: 100%;
+    margin-bottom: 10%;
+
+  }
+
+  .rainbow-textTitle {
+    background-image: repeating-linear-gradient(45deg, violet, indigo, blue, green, yellow, orange, red, violet);
+    text-align: center;
+    background-size: 800% 800%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow 8s ease infinite;
+    font-weight: bold;
+    font-size: 150%;
+
+  }
+
+

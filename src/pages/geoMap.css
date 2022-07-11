@@ -1,0 +1,10 @@
+.marker-btn{
+    background: none;
+    border: none;
+    cursor: pointer;
+    background-image: url("point.png");
+}
+
+.back{
+    float: right;
+}

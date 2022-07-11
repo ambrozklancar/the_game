@@ -1,0 +1,7 @@
+{
+  "name": "the_game",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

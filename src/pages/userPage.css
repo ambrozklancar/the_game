@@ -1,0 +1,24 @@
+.userPageBtn{
+    width: 75%;
+    color: blueviolet;
+    margin-top: 30%;
+    font-weight: 900;
+    background-color: aquamarine;
+    
+}
+
+.box{
+    text-align: center;
+}
+
+.welcomeUser{
+    margin-top: 5%;
+    font-size: xx-large;
+}
+
+.userName{
+    font-variant: small-caps;
+    text-transform: uppercase;
+    color: blueviolet; 
+}
+
